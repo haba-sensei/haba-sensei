@@ -1,13 +1,47 @@
-[![Header](https://github.com/haba-sensei/haba-sensei/blob/master/portada.png?raw=true "Header")](https://github.com/haba-sensei)
+[![Header](https://github.com/haba-sensei/haba-sensei/blob/main/portada.png?raw=true "Header")](https://github.com/haba-sensei)
 
-## 👋 Hello! 
-Software engineer with 6+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
+ # ¡Hola! 👋 Soy Jorge Acosta
 
-## 📚 Writing
-Besides developing, I also write on [Dev.to](https://dev.to/haba-sensei) and [Medium](https://medium.com/@_aerdeljac)
+Soy un apasionado programador Full Stack con experiencia en el desarrollo de aplicaciones web y móviles. En particular, tengo habilidades avanzadas en React, Vue y JavaScript, y he estado trabajando en la creación de aplicaciones móviles utilizando el framework Flutter y el lenguaje Dart.
 
-## 🛠️ Technologies & Tools
-It wouldn't make sense to post every tool and language I've ever worked with, but here are some I am most comfortable with at the moment.
+Mi experiencia me ha llevado a dominar varias herramientas y frameworks, tales como Laravel, Node.js, Express.js, Nest.js, Firebase y MongoDB, entre otros. Además, he trabajado en el diseño de bases de datos utilizando MySQL, HeidiSQL, Workbench y otras herramientas.
+
+Siempre estoy en busca de nuevas tecnologías para mejorar mis habilidades en programación y me encanta estar al tanto de las últimas tendencias en desarrollo web y móvil. Soy una persona comprometida y siempre me esfuerzo por brindar la mejor solución a cada problema que se me presente.
+
+## Habilidades técnicas
+
+- **Lenguajes de programación:** Avanzado: JavaScript, PHP, Dart. Básico: Android, Swift, Java
+- **Frontend:** React, Vue, HTML, CSS, Tailwind CSS, Livewire, Alpine, Vtex IO, Wordpress, WooCommerce
+- **Backend:** Node.js, Express.js, Nest.js, Laravel, Firebase
+- **Base de datos:** Avanzado: MySQL, HeidiSQL, Workbench. Intermedio: MongoDB, Firebase. Básico: SQL Server
+- **Patrones de diseño:** Clean Arquitecture, DDD, TDD, Hexagonal Arquitecture, Vertical Slicing, Screaming Arquitecture, Modular
+- **Herramientas de desarrollo:** Git, Visual Studio Code, Postman, ThunderClient
+- **Herramientas Agiles:** Jira, Slack, Azure Board, Confluence
+- **Agile:** Scrum, Extreme Programming, Design Sprint
+
+
+## Proyectos destacados
+
+Aquí te muestro algunos de mis proyectos más destacados:
+
+- [Nombre del proyecto aquí](https://github.com/tu-usuario/nombre-del-proyecto) - Breve descripción del proyecto.
+- [Nombre del proyecto aquí](https://github.com/tu-usuario/nombre-del-proyecto) - Breve descripción del proyecto.
+
+## Contacto
+
+Si estás interesado en colaborar en algún proyecto o simplemente quieres saludar, no dudes en contactarme:
+
+- Correo electrónico: [tu-correo-electronico-aquí@example.com](mailto:tu-correo-electronico-aquí@example.com)
+- LinkedIn: [Tu perfil de LinkedIn aquí](https://www.linkedin.com/in/tu-usuario/)
+- Twitter: [@TuUsuarioEnTwitter](https://twitter.com/TuUsuarioEnTwitter)
+
+## Idiomas
+
+- **Inglés:** Intermedio
+- **Español:** Nativo
+
+¡Gracias por visitar mi perfil de GitHub! 
+
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
@@ -19,17 +53,3 @@ It wouldn't make sense to post every tool and language I've ever worked with, bu
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
-
-
-<!--
-**AntonioErdeljac/AntonioErdeljac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
