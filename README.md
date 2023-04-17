@@ -32,7 +32,7 @@ Aquí te muestro algunos de mis proyectos más destacados:
 Si estás interesado en colaborar en algún proyecto o simplemente quieres saludar, no dudes en contactarme:
 
 - Correo electrónico: [haba.dev.oficial@gmail.com](mailto:haba.dev.oficial@gmail.com)
-- LinkedIn: [/jorgeacosta-dev](https://www.linkedin.com/in/jorgeacosta-dev)
+- LinkedIn: [jorgeacosta-dev](https://www.linkedin.com/in/jorgeacosta-dev)
 - Twitter: [@yorch_mesetas](https://twitter.com/yorch_mesetas)
 
 ## Idiomas
@@ -48,6 +48,7 @@ Si estás interesado en colaborar en algún proyecto o simplemente quieres salud
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=vue.js)
 ![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&color=informational&logo=flutter)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
 ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
