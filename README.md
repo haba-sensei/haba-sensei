@@ -19,14 +19,14 @@ Siempre estoy en busca de nuevas tecnologías para mejorar mis habilidades en pr
 - **Herramientas Agiles:** Jira, Slack, Azure Board, Confluence
 - **Agile:** Scrum, Extreme Programming, Design Sprint
 
-
+/*
 ## Proyectos destacados
 
 Aquí te muestro algunos de mis proyectos más destacados:
 
 - [Nombre del proyecto aquí](https://github.com/tu-usuario/nombre-del-proyecto) - Breve descripción del proyecto.
 - [Nombre del proyecto aquí](https://github.com/tu-usuario/nombre-del-proyecto) - Breve descripción del proyecto.
-
+*/
 ## Contacto
 
 Si estás interesado en colaborar en algún proyecto o simplemente quieres saludar, no dudes en contactarme:
