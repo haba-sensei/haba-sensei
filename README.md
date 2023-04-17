@@ -32,7 +32,7 @@ Aquí te muestro algunos de mis proyectos más destacados:
 Si estás interesado en colaborar en algún proyecto o simplemente quieres saludar, no dudes en contactarme:
 
 - Correo electrónico: [haba.dev.oficial@gmail.com](mailto:haba.dev.oficial@gmail.com)
-- LinkedIn: [/jorgeacosta-dev]([https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/jorgeacosta-dev/))
+- LinkedIn: [/jorgeacosta-dev]([https://www.linkedin.com/in/jorgeacosta-dev])
 - Twitter: [@yorch_mesetas](https://twitter.com/yorch_mesetas)
 
 ## Idiomas
