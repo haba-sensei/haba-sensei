@@ -19,21 +19,21 @@ Siempre estoy en busca de nuevas tecnologías para mejorar mis habilidades en pr
 - **Herramientas Agiles:** Jira, Slack, Azure Board, Confluence
 - **Agile:** Scrum, Extreme Programming, Design Sprint
 
-/*
+
 ## Proyectos destacados
 
 Aquí te muestro algunos de mis proyectos más destacados:
 
-- [Nombre del proyecto aquí](https://github.com/tu-usuario/nombre-del-proyecto) - Breve descripción del proyecto.
-- [Nombre del proyecto aquí](https://github.com/tu-usuario/nombre-del-proyecto) - Breve descripción del proyecto.
-*/
+- [](https://github.com/haba-sensei/) - 
+- [](https://github.com/haba-sensei/) - 
+
 ## Contacto
 
 Si estás interesado en colaborar en algún proyecto o simplemente quieres saludar, no dudes en contactarme:
 
-- Correo electrónico: [tu-correo-electronico-aquí@example.com](mailto:tu-correo-electronico-aquí@example.com)
-- LinkedIn: [Tu perfil de LinkedIn aquí](https://www.linkedin.com/in/tu-usuario/)
-- Twitter: [@TuUsuarioEnTwitter](https://twitter.com/TuUsuarioEnTwitter)
+- Correo electrónico: [haba.dev.oficial@gmail.com](mailto:haba.dev.oficial@gmail.com)
+- LinkedIn: [/jorgeacosta-dev]([https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/jorgeacosta-dev/))
+- Twitter: [@yorch_mesetas](https://twitter.com/yorch_mesetas)
 
 ## Idiomas
 
