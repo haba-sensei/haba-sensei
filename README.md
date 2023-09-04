@@ -1,4 +1,4 @@
-[![Header](https://github.com/haba-sensei/haba-sensei/blob/main/portada.png?raw=true "Header")](https://github.com/haba-sensei)
+[![Header](https://github.com/haba-sensei/haba-sensei/blob/main/74.jpg?raw=true "Header")](https://github.com/haba-sensei)
 
  # ¡Hola! 👋 Soy Jorge Acosta
 
