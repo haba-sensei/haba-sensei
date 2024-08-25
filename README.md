@@ -22,7 +22,7 @@ Siempre estoy en busca de nuevas tecnologías para mejorar mis habilidades en pr
 
 ## Proyectos destacados
 
-Aquí te muestro algunos de mis proyectos más destacados:
+Aquí te muestro algunos de mis proyectos más destacados: Renovacion 2024 borrado de proyectos y en contruccion de nuevos proyectos 
 
 - [](https://github.com/haba-sensei/) - 
 - [](https://github.com/haba-sensei/) - 
